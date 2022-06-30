@@ -13,9 +13,15 @@ pip install requests
 
 ### Screen Shots:
 Entry Stage:
+
 ![img1](img/entry_state.jpeg?raw=true)
 
+After Submitting:
+
+![img1](img/10_dollar_win.jpeg?raw=true)
+
+![img1](img/10K_dollar_win.jpeg?raw=true)
 
 ### created by:
    Almog Geva
-   Matan Brizman
+   Matan Breizman
