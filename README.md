@@ -20,8 +20,9 @@ After Submitting:
 
 ![img1](img/10_dollar_win.jpeg?raw=true)
 
-![img1](img/10K_dollar_win.jpeg?raw=true)
+![img1](img/10k_dollar_win.jpeg?raw=true)
 
 ### created by:
    Almog Geva
+   
    Matan Breizman
