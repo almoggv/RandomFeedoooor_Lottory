@@ -11,8 +11,9 @@ pip install tk
 pip install requests
 ```
 
-###Screen Shots:
-
+### Screen Shots:
+Entry Stage:
+![img1](img/entry_state.jpeg?raw=true)
 
 
 ### created by:
